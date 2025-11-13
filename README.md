@@ -3,9 +3,9 @@
 A peer-to-peer platform where students can exchange skills through a barter-like system.
 
 ## 👥 Team Members
-- **Gitanjali A** - PES1UG24CS170 - Frontend Development
-- **Harsimran Kaur** - PES1UG24CS187 - Backend Development
-- **Navya Suresh** - PES1UG24CS904 - Database & Integration
+- **Gitanjali A** - PES1UG24CS170 
+- **Harsimran Kaur** - PES1UG24CS187 
+- **Navya Suresh** - PES1UG24CS904 
 
 ## 🚀 Features
 - JWT-based authentication
